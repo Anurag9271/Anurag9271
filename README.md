@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anurag
 
-🎯 Aspiring MLOps Engineer
+🎯 Aspiring AI/ML Engineer
 💡 Passionate about building scalable ML systems and deploying models into production
 
 ---
@@ -43,12 +43,6 @@ Flask | REST APIs
 * Data versioning using DVC
 * Reproducible ML workflow
 * Integrated with Git
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
 
 ---
 
