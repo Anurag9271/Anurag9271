@@ -10,7 +10,7 @@
 * 🔭 Currently working on: End-to-End ML Projects
 * 🌱 Learning: Kubernetes, CI/CD, Model Monitoring
 * 💬 Ask me about: Python, Flask, Docker, ML pipelines
-* 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+* 📫 Reach me at: [anuragomer799@gmail.com](mailto:anuragomer799@gmail.com)
 
 ---
 
