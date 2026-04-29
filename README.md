@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Anurag
 
+![Coding]([https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnNkZWQ0OWVxb3ZpZnZ2d3VvNzN6bHZzNTdzMnBuZzg0d3VkbzRqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14fe94oGGsupaw/giphy.gif))
+
 🎯 Aspiring AI/ML Engineer
 💡 Passionate about building scalable ML systems and deploying models into production
 
