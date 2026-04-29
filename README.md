@@ -56,7 +56,7 @@ Flask | REST APIs
 
 ## 🤝 Connect With Me
 
-* LinkedIn: your-link
-* GitHub: [https://github.com/Anurag9271]
+* LinkedIn: www.linkedin.com/in/anurag-anurag-abaaa8334
+* GitHub: https://github.com/Anurag9271
 
 ---
