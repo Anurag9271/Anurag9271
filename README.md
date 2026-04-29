@@ -10,7 +10,7 @@
 * 🔭 Currently working on: End-to-End ML Projects
 * 🌱 Learning: Kubernetes, CI/CD, Model Monitoring
 * 💬 Ask me about: Python, Flask, Docker, ML pipelines
-* 📫 Reach me at: [anuragomer799@gmail.com](mailto:anuragomer799@gmail.com)
+* 📫 Reach me at: anuragomer799@gmail.com
 
 ---
 
@@ -56,7 +56,7 @@ Flask | REST APIs
 
 ## 🤝 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/anurag-anurag-abaaa8334
+* LinkedIn: https://www.linkedin.com/in/anurag-anurag-abaaa8334
 * GitHub: https://github.com/Anurag9271
 
 ---
